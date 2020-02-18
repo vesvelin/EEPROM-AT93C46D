@@ -1,0 +1,2 @@
+# EEPROM AT93C46D
+ read/write/save EEPROM AT93C46D
